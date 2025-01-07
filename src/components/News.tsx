@@ -21,8 +21,8 @@ const News = () => {
           </div>
           <div className="bg-white rounded-lg overflow-hidden shadow-sm">
             <img
-              src="/lovable-uploads/1501286353178-1ec881214838"
-              alt="Medical research"
+              src="/lovable-uploads/b7653fdb-6de2-4d71-939c-7a8e14612936.png"
+              alt="Advanced medical research facility with scientists working on innovative treatments"
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
