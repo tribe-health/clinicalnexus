@@ -19,8 +19,8 @@ const Solutions = () => {
               </Button>
             </div>
             <img
-              src="/lovable-uploads/6a0db459-0cae-4d40-b2fd-ef9d9a52fe9f.png"
-              alt="Rural South Texas landscape with golden fields and oak trees"
+              src="/lovable-uploads/bc8e365c-5f78-419c-98c8-09b19c067a35.png"
+              alt="Healthcare providers and patient having a friendly conversation in a comfortable medical setting"
               className="rounded-lg mt-8 h-[300px] w-full object-cover"
             />
           </div>
