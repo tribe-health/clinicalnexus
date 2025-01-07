@@ -7,8 +7,11 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
-              <span className="text-2xl font-bold text-primary">antidote</span>
-              <span className="text-2xl text-primary ml-1">//</span>
+              <img 
+                src="/lovable-uploads/802646d4-05e8-4dc2-bb6c-ccdf0e92c3ae.png" 
+                alt="Reveles Clinical" 
+                className="h-8"
+              />
             </Link>
           </div>
           <div className="hidden sm:flex sm:items-center sm:space-x-8">
