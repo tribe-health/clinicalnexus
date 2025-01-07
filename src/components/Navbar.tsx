@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <nav className="bg-white border-b border-gray-100">
+    <nav className="bg-primary">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex items-center">
@@ -15,11 +15,11 @@ const Navbar = () => {
             </Link>
           </div>
           <div className="hidden sm:flex sm:items-center sm:space-x-8">
-            <Link to="/patients" className="text-gray-600 hover:text-primary">Patients</Link>
-            <Link to="/sponsors" className="text-gray-600 hover:text-primary">Sponsors</Link>
-            <Link to="/partners" className="text-gray-600 hover:text-primary">Partners</Link>
-            <Link to="/blog" className="text-gray-600 hover:text-primary">Blog</Link>
-            <Link to="/about" className="text-gray-600 hover:text-primary">About</Link>
+            <Link to="/patients" className="text-white hover:text-primary-light">Patients</Link>
+            <Link to="/sponsors" className="text-white hover:text-primary-light">Sponsors</Link>
+            <Link to="/partners" className="text-white hover:text-primary-light">Partners</Link>
+            <Link to="/blog" className="text-white hover:text-primary-light">Blog</Link>
+            <Link to="/about" className="text-white hover:text-primary-light">About</Link>
           </div>
         </div>
       </div>
