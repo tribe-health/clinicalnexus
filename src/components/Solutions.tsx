@@ -5,39 +5,39 @@ const Solutions = () => {
     <div className="bg-white py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="text-3xl font-bold text-center mb-16">
-          We're solving this problem in two ways:
+          We're making COPD clinical trials accessible in South Texas:
         </h2>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
           <div className="flex flex-col justify-between">
             <div>
-              <h3 className="text-2xl font-semibold mb-4">For sponsors</h3>
+              <h3 className="text-2xl font-semibold mb-4">For healthcare providers</h3>
               <p className="text-gray-600 mb-6">
-                We've perfected precision recruitment to help sponsors fill clinical trials faster.
+                We partner with local clinics and physicians to bring innovative COPD treatments to your patients through clinical trials.
               </p>
               <Button className="bg-primary text-white hover:bg-primary/90">
-                Learn more
+                Partner with us
               </Button>
             </div>
             <img
-              src="/lovable-uploads/e5b49567-eacc-4e97-a0a0-1905f9f89a47.png"
-              alt="Doctor working on laptop"
-              className="rounded-lg mt-8"
+              src="/lovable-uploads/1465379944081-7f47de8d74ac"
+              alt="Rural South Texas landscape"
+              className="rounded-lg mt-8 h-[300px] w-full object-cover"
             />
           </div>
           <div className="flex flex-col justify-between">
             <div>
-              <h3 className="text-2xl font-semibold mb-4">For patients</h3>
+              <h3 className="text-2xl font-semibold mb-4">For COPD patients</h3>
               <p className="text-gray-600 mb-6">
-                We've made the process of finding trials easy with our smart Match search engine.
+                Access cutting-edge COPD treatments close to home, with transportation assistance and support throughout your journey.
               </p>
               <Button className="bg-primary text-white hover:bg-primary/90">
-                Start your search
+                Find local trials
               </Button>
             </div>
             <img
-              src="/lovable-uploads/4811771c-3ed3-4b3b-996e-42d8f91bca9b.png"
-              alt="Patient sitting in chair"
-              className="rounded-lg mt-8"
+              src="/lovable-uploads/1426604966848-d7adac402bff"
+              alt="South Texas natural landscape"
+              className="rounded-lg mt-8 h-[300px] w-full object-cover"
             />
           </div>
         </div>

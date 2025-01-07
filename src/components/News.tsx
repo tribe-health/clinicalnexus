@@ -4,54 +4,54 @@ const News = () => {
   return (
     <div className="bg-muted py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl font-bold text-center mb-16">Latest news</h2>
+        <h2 className="text-3xl font-bold text-center mb-16">Latest COPD Research News</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
           <div className="bg-white rounded-lg overflow-hidden shadow-sm">
             <img
-              src="/lovable-uploads/1373393c-9b2f-4888-b806-f0a89643d5f3.png"
-              alt="Article thumbnail"
+              src="/lovable-uploads/1485833077593-4278bba3f11f"
+              alt="Rural landscape"
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
-              <div className="text-sm text-primary mb-2">Article</div>
+              <div className="text-sm text-primary mb-2">Research Update</div>
               <h3 className="text-lg font-semibold mb-4">
-                The holiday season and mental health: Tips for...
+                New COPD Treatment Shows Promise in South Texas Trial
               </h3>
             </div>
           </div>
           <div className="bg-white rounded-lg overflow-hidden shadow-sm">
             <img
-              src="/lovable-uploads/61a3829b-b2c7-48e0-9cf7-a33af42cce8c.png"
-              alt="Article thumbnail"
+              src="/lovable-uploads/1501286353178-1ec881214838"
+              alt="Medical research"
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
-              <div className="text-sm text-primary mb-2">Article</div>
+              <div className="text-sm text-primary mb-2">Community</div>
               <h3 className="text-lg font-semibold mb-4">
-                Six Reasons to Work with a Patient Recruitment Vendor...
+                Local Support Groups Help COPD Patients Navigate Clinical Trials
               </h3>
             </div>
           </div>
           <div className="bg-white rounded-lg overflow-hidden shadow-sm">
             <img
-              src="/lovable-uploads/e5b49567-eacc-4e97-a0a0-1905f9f89a47.png"
-              alt="Article thumbnail"
+              src="/lovable-uploads/1472396961693-142e6e269027"
+              alt="South Texas landscape"
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
-              <div className="text-sm text-primary mb-2">Press</div>
+              <div className="text-sm text-primary mb-2">Resources</div>
               <h3 className="text-lg font-semibold mb-4">
-                AI TechPark: Antidote announced partnership with...
+                Transportation Assistance Program Launches for Trial Participants
               </h3>
             </div>
           </div>
         </div>
         <div className="flex justify-center gap-4">
           <Button variant="outline" className="border-primary text-primary hover:bg-primary hover:text-white">
-            Blog
+            Research Updates
           </Button>
           <Button variant="outline" className="border-primary text-primary hover:bg-primary hover:text-white">
-            Press
+            Patient Stories
           </Button>
         </div>
       </div>
