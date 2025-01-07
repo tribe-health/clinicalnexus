@@ -34,8 +34,8 @@ const News = () => {
           </div>
           <div className="bg-white rounded-lg overflow-hidden shadow-sm">
             <img
-              src="/lovable-uploads/1472396961693-142e6e269027"
-              alt="South Texas landscape"
+              src="/lovable-uploads/f11410a7-bc20-4872-b5ec-3ad49d01df49.png"
+              alt="South Texas landscape with a mesquite tree overlooking a serene lake"
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
