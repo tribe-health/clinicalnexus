@@ -8,8 +8,8 @@ const News = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
           <div className="bg-white rounded-lg overflow-hidden shadow-sm">
             <img
-              src="/lovable-uploads/1485833077593-4278bba3f11f"
-              alt="Rural landscape"
+              src="/lovable-uploads/ecdbbc76-25dd-403a-a970-c56698a44344.png"
+              alt="Rural landscape with a winding path leading to a farmhouse on a hill, surrounded by trees and wildflowers"
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
