@@ -39,8 +39,8 @@ const Hero = () => {
           </div>
           <div className="hidden lg:block">
             <img
-              src="/lovable-uploads/1472396961693-142e6e269027.jpg"
-              alt="Rural South Texas landscape"
+              src="/lovable-uploads/6a0db459-0cae-4d40-b2fd-ef9d9a52fe9f.png"
+              alt="Rural South Texas landscape with rolling hills, golden fields, and a winding dirt road"
               className="rounded-lg w-full object-cover h-[500px]"
             />
           </div>

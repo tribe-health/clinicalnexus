@@ -19,8 +19,8 @@ const Solutions = () => {
               </Button>
             </div>
             <img
-              src="/lovable-uploads/1465379944081-7f47de8d74ac"
-              alt="Rural South Texas landscape"
+              src="/lovable-uploads/6a0db459-0cae-4d40-b2fd-ef9d9a52fe9f.png"
+              alt="Rural South Texas landscape with golden fields and oak trees"
               className="rounded-lg mt-8 h-[300px] w-full object-cover"
             />
           </div>
@@ -35,8 +35,8 @@ const Solutions = () => {
               </Button>
             </div>
             <img
-              src="/lovable-uploads/1426604966848-d7adac402bff"
-              alt="South Texas natural landscape"
+              src="/lovable-uploads/6a0db459-0cae-4d40-b2fd-ef9d9a52fe9f.png"
+              alt="Scenic South Texas countryside with winding road and fence line"
               className="rounded-lg mt-8 h-[300px] w-full object-cover"
             />
           </div>
