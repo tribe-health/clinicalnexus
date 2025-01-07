@@ -35,8 +35,8 @@ const Solutions = () => {
               </Button>
             </div>
             <img
-              src="/lovable-uploads/6a0db459-0cae-4d40-b2fd-ef9d9a52fe9f.png"
-              alt="Scenic South Texas countryside with winding road and fence line"
+              src="/lovable-uploads/8f7bbbc2-20cb-485c-8edc-76511c5b133c.png"
+              alt="Person with closed eyes showing the emotional impact of living with COPD"
               className="rounded-lg mt-8 h-[300px] w-full object-cover"
             />
           </div>
